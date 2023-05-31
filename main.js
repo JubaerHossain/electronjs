@@ -12,7 +12,7 @@ function createWindow() {
     backgroundColor: '#d3d3d3',
     icon: path.join(__dirname + 'assets/icons/png/64x64.png')
   });
-  win.loadURL('https://hrm.onesttech.com/sign-in');
+  win.loadURL('https://www.google.com');
 
   // Open the DevTools (optional) 
   //   win.webContents.openDevTools();
